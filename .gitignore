@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 .env
-
+*.pth
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
