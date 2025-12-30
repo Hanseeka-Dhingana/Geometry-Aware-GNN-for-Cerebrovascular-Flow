@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 .env
-*.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -141,6 +141,7 @@ celerybeat.pid
 .env
 .envrc
 .venv
+.myenv
 env/
 venv/
 ENV/
